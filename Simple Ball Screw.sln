@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7D049A34-F7A8-47F4-AF65-57433FD83A7E}") = "Simple Ball Screw", "Simple Ball Screw\Simple Ball Screw.tcmdproj", "{62777C3A-A6BF-4DC7-92DC-0D01F12550E4}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F6229F-54E7-4EA1-924B-B7101BC15BCF}
+	EndGlobalSection
+EndGlobal

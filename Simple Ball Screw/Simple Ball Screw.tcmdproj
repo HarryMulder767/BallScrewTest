@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Name>TwinCAT Motion Designer</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{62777c3a-a6bf-4dc7-92dc-0d01f12550e4}</ProjectGuid>
+    <AssemblyName>Simple Ball Screw</AssemblyName>
+    <RootNamespace>Simple Ball Screw</RootNamespace>
+  </PropertyGroup>
+</Project>
